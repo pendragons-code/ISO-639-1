@@ -935,23 +935,3 @@
     "native": "isiZulu"
   }
 ]
-@polterguy
-polterguy commented on Feb 28, 2021
-Hi man, adorable work, but you need to add dialects, such as en-US, en-GB, en-AU, etc ^_^
-Let me know if you update your file. I've added the following in my own copy ...
-
-  {
-    "code": "en-US",
-    "name": "English United States",
-    "native": "English United Stated"
-  },
-  {
-    "code": "en-GB",
-    "name": "English Great Britain",
-    "native": "English Great Britain"
-  },
-  {
-    "code": "en-AU",
-    "name": "English Australian",
-    "native": "English Australian"
-  }
